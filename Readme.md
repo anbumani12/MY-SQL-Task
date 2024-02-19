@@ -1,1 +1,1 @@
-💻🖥 Queries are Resolved using My SQL
+💻🖥 Queries are Resolved using My SQL.
